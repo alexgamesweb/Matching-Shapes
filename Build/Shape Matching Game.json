@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Matching Shapes",
+"productVersion": "v0.1",
+"dataUrl": "Shape Matching Game.data.unityweb",
+"wasmCodeUrl": "Shape Matching Game.wasm.code.unityweb",
+"wasmFrameworkUrl": "Shape Matching Game.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.31f1"
+}
